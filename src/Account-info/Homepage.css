@@ -19,7 +19,7 @@ body{
 
 .Hmobile-ui{
   width: 370px;
-  height:auto;
+  height:100vh;
   padding-bottom: 20px;
   background: white;
   border-radius: 45px;
